@@ -1,0 +1,3 @@
+Model,Train RMSE,Valid RMSE,Valid RMSE SD
+Polynomial degree 2,0.143,0.155,0.016
+kNN,0.000,0.159,0.015

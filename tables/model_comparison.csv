@@ -1,0 +1,4 @@
+Model,Train RMSE [d^-1],Valid RMSE [d^-1],Train R2,Valid R2
+Polynomial degree 1,0.171,0.177,0.127,0.043
+Polynomial degree 2,0.143,0.155,0.391,0.272
+Polynomial degree 3,0.130,0.168,0.497,0.135

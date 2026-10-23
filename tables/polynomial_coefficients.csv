@@ -1,0 +1,16 @@
+Polynomial Feature,Coefficient
+Temperature,-0.019
+pH,-0.013
+Glucose,0.025
+Lactate,-0.060
+Temperature^2,-0.020
+Temperature * pH,-0.020
+Temperature * Glucose,-0.009
+Temperature * Lactate,-0.012
+pH^2,-0.061
+pH * Glucose,-0.002
+pH * Lactate,0.003
+Glucose^2,0.003
+Glucose * Lactate,-0.021
+Lactate^2,0.015
+Intercept,0.338
